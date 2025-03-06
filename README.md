@@ -1,5 +1,8 @@
-<h1> Wanderson Souza <h1>
-<p> Este é o minha primeira apresentação <p>
+<h1> Olá, meu nome é Wanderson! <h1>
+<p> ♾️  Aluno da UFRN cursando licenciatura em matemática
+
+Estudando do projeto jovem potiguar 
+<p>
 <p> Hoje eu estou com fome <p> :hearts:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "50px" >
