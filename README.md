@@ -1,4 +1,4 @@
-<h1> Olá, meu nome é Wanderson! <h1>
+<h1> Olá, meu nome é Wanderson! </h1>
 
 <p> ♾️  Aluno da UFRN cursando licenciatura em matemática </p>
 <p> 🧑‍💻 Estudando do projeto jovem potiguar e cursando programador web </p>
