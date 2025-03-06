@@ -1,7 +1,9 @@
 <h1> Olá, meu nome é Wanderson! <h1>
 <p> ♾️  Aluno da UFRN cursando licenciatura em matemática
 
-Estudando do projeto jovem potiguar 
+🧑‍💻 Estudando do projeto jovem potiguar e cursando programador web
+
+
 <p>
 <p> Hoje eu estou com fome <p> :hearts:
 
