@@ -3,4 +3,7 @@
 <p> Hoje eu estou com fome <p> :hearts:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
           
+
