@@ -15,4 +15,19 @@
 
 <img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
           
+<h2> Banco de dados </h2>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width = "50px"/>
+
+<h2> Habilidades </h2>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width = "50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+          
+<h2> Social </h2>
+
+
+                    
 
