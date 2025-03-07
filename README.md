@@ -6,7 +6,12 @@
 <p> 🥉 Medalhista olimpico de matemática em 2022 </p>
 <p> 🍔 24 horas com fome </p>
 
+<h2> Linguagens </h2>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "50px" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = "50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+                   
 
 <img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
           
