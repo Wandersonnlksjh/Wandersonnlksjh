@@ -21,10 +21,10 @@
 
 <h2> Habilidades </h2>
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width = "50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width = "50px"/>
-          
+<div class="icons">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width = "50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width = "50px"/>
+</div>
 <h2> Informações </h2>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak">
